@@ -1,0 +1,47 @@
+{
+    "name": "devmatebb-vscode-theme",
+    "displayName": "DevmateBB",
+    "description": "Custom VS Code theme by BB.",
+    "version": "0.0.1",
+    "publisher": "berkbb",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "icon": "devmateicon.png",
+    "galleryBanner": {
+        "color": "#343434",
+        "theme": "dark"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "extensionKind": [
+        "ui",
+        "workspace"
+    ],
+    "keywords": [
+        "berkbb",
+        "dark",
+        "theme",
+        "devmate"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "DevmateBB",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DevmateBB-color-theme.json"
+            },
+            {
+                "label": "DevmateBB Vibrant",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DevmateBB-vibrant-color-theme.json"
+            },
+            {
+                "label": "DevmateBB Soft",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DevmateBB-soft-color-theme.json"
+            }
+        ]
+    }
+}
