@@ -1,8 +1,12 @@
 # DevmateBB Theme
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/berkbb/devmatebb/refs/heads/main/devmateicon.png" width="128" alt="DevmateBB Icon">
+</p>
+
 **DevmateBB** is a modern, clean dark VS Code theme entirely based on the official **Android Material 3** dark color palette.
 
-![DevmateBB Theme Preview](main.png)
+![DevmateBB Theme Preview](https://raw.githubusercontent.com/berkbb/devmatebb/refs/heads/main/main.png)
 
 ## Features
 
@@ -20,4 +24,4 @@
 
 ## License
 
-MIT License © 2026 Berk Babadoğan
+[MIT License](LICENSE.txt) © 2026 Berk Babadoğan
